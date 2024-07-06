@@ -1,4 +1,4 @@
-This is Preprocessing and EDA task for Superstore dataset
+This is a Preprocessing and EDA task for Superstore dataset
 
 This Task is made for SCU Racing Team
 
